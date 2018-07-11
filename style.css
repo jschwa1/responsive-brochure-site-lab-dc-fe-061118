@@ -105,6 +105,13 @@ transition: all 1s ease;
 -webkit-filter: brightness(130%);
 }
 
+footer {
+  background: black;
+  color: #ffb6c1;
+  text-align: center;
+  padding: 20px;
+}
+
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
     .column {
@@ -123,9 +130,4 @@ transition: all 1s ease;
     }
 }
 
-footer {
-  background: black;
-  color: #ffb6c1;
-  text-align: center;
-  padding: 20px;
-}
+
