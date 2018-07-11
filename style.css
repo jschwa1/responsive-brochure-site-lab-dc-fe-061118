@@ -4,6 +4,7 @@
 
 header {
   background-color: rgba(254, 254, 254, 0.5);
+  opacity: 0.8;
   color: #rgb(#,0,0);
   text-align: left;
   padding: 10px 20px;
