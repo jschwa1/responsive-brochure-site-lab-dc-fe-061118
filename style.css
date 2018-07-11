@@ -7,7 +7,7 @@ header {
   color: #111111;
   text-align: left;
   padding: 10px 20px;
-  text
+  text-transform: bold uppercase;
 }
 
 html, body, #hero, #overlay {
