@@ -4,7 +4,7 @@
 
 header {
   background: black;
-  color: #ffb6c1;
+  color: rgba(0, 0, 0, 0.5);
   text-align: left;
   padding: 10px 20px;
 }
