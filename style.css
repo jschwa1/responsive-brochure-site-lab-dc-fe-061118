@@ -39,7 +39,6 @@ html, body, #hero, #overlay {
   opacity: 0.5;
 }
 
-
 @-o-keyframes colorcycle {
   0%   {background: #a24de3;}
   25%  {background: #00aeff;}
