@@ -9,7 +9,7 @@ header {
   padding: 30px;
 }
 
-html, body, #hero, #overlay {
+body, #hero, #overlay {
   height: 100%;
   width: 100%;
   min-height: 100%;
