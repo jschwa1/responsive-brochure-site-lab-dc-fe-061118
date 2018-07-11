@@ -3,8 +3,8 @@
 }
 
 header {
-  background: black;
-  color: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.5);
+  color: #ffb6c1;
   text-align: left;
   padding: 10px 20px;
 }
