@@ -40,7 +40,7 @@ html, body, #hero, #overlay {
 }
 
 @keyframes colorcycle {
-  100%   {background: #a24de3;}
+  25%   {background: #a24de3;}
   25%  {background: #00aeff;}
   50%  {background: #f45a4a;}
   75%  {background: #4fd1cd;}
