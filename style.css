@@ -39,6 +39,31 @@ html, body, #hero, #overlay {
   opacity: 0.5;
 }
 
+
+@-o-keyframes colorcycle {
+  0%   {background: #a24de3;}
+  25%  {background: #00aeff;}
+  50%  {background: #f45a4a;}
+  75%  {background: #4fd1cd;}
+  100% {background: #a24de3;}
+}
+
+@-moz-keyframes colorcycle {
+  0%   {background: #a24de3;}
+  25%  {background: #00aeff;}
+  50%  {background: #f45a4a;}
+  75%  {background: #4fd1cd;}
+  100% {background: #a24de3;}
+}
+
+@-webkit-keyframes colorcycle {
+  0%   {background: #a24de3;}
+  25%  {background: #00aeff;}
+  50%  {background: #f45a4a;}
+  75%  {background: #4fd1cd;}
+  100% {background: #a24de3;}
+}
+
 @keyframes colorcycle {
   0%   {background: #a24de3;}
   25%  {background: #00aeff;}
